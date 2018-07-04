@@ -7,7 +7,7 @@ lr_policy: "fixed"
 max_iter: 10000
 momentum: 0.99
 snapshot: 2000
-snapshot_prefix: "/home/wen/caffe-master/examples/my_cifar10/snapshot/snapshot"
+snapshot_prefix: "/home/wen/caffe-master/semantic/fcn/my_fcn32s/snapshot/snapshot"
 solver_mode: GPU
 test_initialization: false
 test_interval: 500
